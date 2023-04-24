@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=&redir_token=QUFFLUhqazNpTE03LVl1TDBwVXJic2s5Ry1Za1c1NXdKUXxBQ3Jtc0tsUGdoWHZoNmxqQ1ZXWktnVzNlT3dkNmpzUnp0RDlmTDN1eTJfZXVCTG1IYXJfQzlLV2tfYTZoNU1KOUhOcFZBNXdTcFM1MWY5c2h2RGRLTm9qYWtGMHRXVFFRWENZZVk0U1pBWVI0cjVaamRkb0RpZw&q=http%3A%2F%2Fmwamgz.palatlaldate.com%3Futm_source%3Dda57dc555e50572d&html_redirect=1 ";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbE12TGVUdm10NWxYTGtvb2R3SlpsWnlIc1BVUXxBQ3Jtc0tsMVVGeTFsdVZGbTBPb3cxUC1LR1V2UlAzbGZqdnh6SkVWcWNnYmlqVzg0b0hYSEVDZ3BNVlM4WVV5X2N5V2lnOExFRzl1cWxDTVZTQlp2Y042YXhGZ3pJVy1ncUQ4c2pBaXpxLUIyVGc3RXVqSUx5MA&q=https%3A%2F%2Fxblroo.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D187579%26s2%3D1785755%26j1%3D1&html_redirect=1 ";
+
+
